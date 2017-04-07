@@ -1072,6 +1072,9 @@ h2.major {
 		#main > section:first-child {
 			border-top: 0;
 		}
+	.container {
+		width: 43em;
+	}
 
 /* One */
 
