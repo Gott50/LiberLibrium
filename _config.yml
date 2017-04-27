@@ -13,6 +13,9 @@ email:
 twitter_username:
 github_username:
 
+# Form
+static_email: "//formspree.io/liberlibrum@gmail.com"
+
 # Build settings
 markdown: kramdown
 
