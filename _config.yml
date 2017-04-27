@@ -1,12 +1,13 @@
 # Site settings
 title: LiberLibrum
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-keywords:
+description: > # this means to ignore newlines until "keywords:"
+  Imagine, if you could earn your living by following your passion. Indeed, this is possible with almost every hobby, but in modern forms of society it is unlikely that you are given this opportunity.
+  Imagine how it would be, if you wouldn’t have to worry about your future or that of your loved ones.
+  Imagine how it would be, if you wouldn’t have to work, but could evolve freely.
+  Imagine how it would be, if you wouldn’t be limited by any social or financial circumstances.
+keywords: Liber Librum New Society
 baseurl: "/LiberLibrum" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://gott50.github.io" # the base hostname & protocol for your site
 
 email:
 twitter_username:
@@ -15,3 +16,24 @@ github_username:
 # Build settings
 markdown: kramdown
 
+# SEO
+image:
+  path: /images/logo.png
+  height: 100
+  width: 100
+
+social:
+  name: LiberLibrum
+  links:
+    -
+
+webmaster_verifications:
+  google:
+  bing:
+  alexa:
+  yandex:
+
+gems:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
