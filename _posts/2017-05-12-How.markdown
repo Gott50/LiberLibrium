@@ -1,17 +1,17 @@
-﻿---
+---
 layout: post
 ---
 
 In a better society the following values should be important:
 
-## Freedom
+### Freedom
 A society should support and care for every of its members. Especially it should provide for nourishment, clothing, housing, physical and psychological well-being and all liberties of every member.
-This exclude the infringement of the liberties, physical and psychological well-being of others. 
+This exclude the infringement of the liberties, physical and psychological well-being of others.
 
-## Curiosity
+### Curiosity
 A society should provide a general education for everybody and give the possibility to improve their skills in every discipline of their personal interests. Furthermore unworldly examinations should be replaced by continuous learning and repeating.
 
-## Creativity
+### Creativity
 A society should support the voluntary creative and productive activities of their members as long as nobody is impaired. It should also be possible for everybody to use every available hardware.
 
 In return the society is entitled to use the fruits of the members labour to provide the mentioned services.
