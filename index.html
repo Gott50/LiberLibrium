@@ -31,12 +31,12 @@ layout: default
                 {% for post in site.posts offset:0 %}
                 <article>
                     <section class="excerpt">
-                        <div class="row">
-                            <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+                        <a href="{{ site.baseurl }}{{ post.url }}">
+                            <h1>{{ post.title }}</h1>
                             <p>
                             {{ post.content | truncatewords: 50 }}
                             </p>
-                        </div>
+                        </a>
                     </section>
                     <!--<footer>-->
                         <!--<ul class="actions">-->
