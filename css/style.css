@@ -38,6 +38,10 @@
 			color: #4acaa8 !important;
 		}
 
+.post-content a {
+	text-decoration: underline;
+}
+
 	strong, b {
 		color: #777;
 		font-weight: 700;
