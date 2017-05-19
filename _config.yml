@@ -6,8 +6,8 @@ description: > # this means to ignore newlines until "keywords:"
   Imagine how it would be, if you wouldn’t have to work, but could evolve freely.
   Imagine how it would be, if you wouldn’t be limited by any social or financial circumstances.
 keywords: Liber Librum New Society
-baseurl: "/LiberLibrum" # the subpath of your site, e.g. /blog/
-url: "https://gott50.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://LiberLibrum.github.io/" # the base hostname & protocol for your site
 
 email:
 twitter_username:

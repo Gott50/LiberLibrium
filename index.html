@@ -28,15 +28,15 @@ layout: default
                 Therefore most of research and development done by men is redundant, because competing companies are working against each other instead of cooperating.</p>
             <p><strong>The following concepts promise to solve the problems mentioned above and to ensure our fundamental rights.</strong></p>
             <div class="features">
-                {% for post in site.posts offset:0 %}
+                {% for post in site.posts reversed offset:0 %}
                 <article>
                     <section class="excerpt">
-                        <div class="row">
-                            <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+                        <a href="{{ site.baseurl }}{{ post.url }}">
+                            <h1>{{ post.title }}</h1>
                             <p>
-                            {{ post.content | truncatewords: 30 }}
+                            {{ post.content | truncatewords: 50 }}
                             </p>
-                        </div>
+                        </a>
                     </section>
                     <!--<footer>-->
                         <!--<ul class="actions">-->
