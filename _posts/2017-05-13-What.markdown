@@ -8,11 +8,7 @@ In a realization the community should provide nourishment, accommodation and all
 Though this may sound like a permanent vacation, humans creativity and curiosity sustains and push the progress forward.
 
 ### Creativity
-<<<<<<< HEAD
-Nowadays the urge to be creative gets suppressed by a shortage of time. The [here](https://gott50.github.io/LiberLibrum/2017/05/12/How.html) described right for freedom solves this problem.
-=======
-Nowadays the urge to be creative gets suppressed by a shortage of time. The [here]({{ site.baseurl }}/2017/05/13/What.html) described right for freedom solves this problem.
->>>>>>> origin/master
+Nowadays the urge to be creative gets suppressed by a shortage of time. The [here]({{ site.baseurl }}/2017/05/12/How.html) described right for freedom solves this problem.
 The creative work of every member become the goods of the society. These get utilize to finance freedom.
 Of course the society provides for all feasible projects of its members. Therefore these projects have to be registered to give the society the possibility to support and utilize them.
 It must be pointed out that the society has an immediate claim for every replicable works. Concerning physical objects the administration falls to the society, as far as the creator or other users raise no claim.
