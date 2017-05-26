@@ -34,7 +34,7 @@ webmaster_verifications:
   google: WbgbdgZjPcdukp7vov4n-im2sKvQIIsiBvWPYkcNaTw
   bing:
   alexa:
-  yandex:
+  yandex: ffc1541da5036553
 
 gems:
   - jekyll-seo-tag
